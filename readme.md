@@ -13,6 +13,6 @@ IhebW@github
  Terminal  :  Windows Command Prompt
       CPU  :  I7-9700K
       GPU  :  NVIDIA GeForce RTX 3060
-Languages  :  C, Go, Python, Javascript, Rust, 
+Languages  :  C, Go, Python, Javascript, Rust
   Discord  :  GodJustice#7777 (916289661410873374)
 ```
